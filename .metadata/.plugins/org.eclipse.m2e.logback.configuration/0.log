@@ -1,0 +1,59 @@
+2019-11-28 10:29:26,445 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-28 10:34:08,463 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service\pom.xml.
+2019-11-28 10:34:30,205 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /authentication-service/src/main/java
+2019-11-28 10:34:30,206 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /authentication-service/src/main/resources
+2019-11-28 10:34:30,206 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /authentication-service/src/main/resources
+2019-11-28 10:34:30,211 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /authentication-service/src/test/java
+2019-11-28 10:34:32,143 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 46 sec
+2019-11-28 10:34:47,677 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 10:34:47,679 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 10:34:47,702 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 10:34:47,705 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 10:34:47,705 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service\src\test\resources
+2019-11-28 10:53:06,952 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 10:53:06,958 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 10:53:06,965 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 10:53:06,967 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 10:53:06,967 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service\src\test\resources
+2019-11-28 10:55:12,003 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-11-28 10:55:19,333 [Worker-21: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service
+2019-11-28 10:55:19,338 [Worker-21: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\761251\Desktop\Training\apache-maven-3.6.2\conf\settings.xml 
+2019-11-28 10:56:10,057 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-11-28 10:59:03,265 [Worker-18: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service
+2019-11-28 10:59:03,265 [Worker-18: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\761251\Desktop\Training\apache-maven-3.6.2\conf\settings.xml build
+2019-11-28 11:01:33,468 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-11-28 11:01:33,869 [Worker-24: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service
+2019-11-28 11:01:33,875 [Worker-24: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\761251\Desktop\Training\apache-maven-3.6.2\conf\settings.xml build
+2019-11-28 11:01:42,989 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-11-28 11:01:43,071 [Worker-26: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service
+2019-11-28 11:01:43,071 [Worker-26: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\761251\Desktop\Training\apache-maven-3.6.2\conf\settings.xml build
+2019-11-28 11:01:54,243 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-11-28 11:01:54,388 [Worker-26: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service
+2019-11-28 11:01:54,388 [Worker-26: Launching authentication-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\761251\Desktop\Training\apache-maven-3.6.2\conf\settings.xml build
+2019-11-28 11:02:00,612 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-11-28 11:02:07,200 [Worker-27: Launching authentication-service (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service
+2019-11-28 11:02:07,200 [Worker-27: Launching authentication-service (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\761251\Desktop\Training\apache-maven-3.6.2\conf\settings.xml clean install
+2019-11-28 11:02:50,974 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-11-28 11:04:30,821 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-11-28 11:06:09,952 [Worker-28: Launching authentication-service (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service
+2019-11-28 11:06:09,952 [Worker-28: Launching authentication-service (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\761251\Desktop\Training\apache-maven-3.6.2\conf\settings.xml clean install
+2019-11-28 11:06:31,912 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-11-28 11:07:51,049 [Worker-31: Launching authentication-service (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service
+2019-11-28 11:07:51,049 [Worker-31: Launching authentication-service (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\761251\Desktop\Training\apache-maven-3.6.2\conf\settings.xml clean install
+2019-11-28 11:08:07,702 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-11-28 11:11:39,927 [Worker-28: Launching authentication-service (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Associate Training\Dip\MicroServiceWorkspace\authentication-service
+2019-11-28 11:11:39,971 [Worker-28: Launching authentication-service (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pproduction -B -o -Dmaven.test.skip=true -DskipTests -s C:\Users\761251\Desktop\Training\apache-maven-3.6.2\conf\settings.xml clean install
+2019-11-28 11:14:49,470 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-11-28 11:18:31,111 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-11-28 11:18:55,055 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2019-11-28 11:19:05,367 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0-sources.jar
+2019-11-28 11:19:15,638 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2019-11-28 11:19:25,913 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar
+2019-11-28 11:19:36,172 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5-sources.jar
+2019-11-28 11:19:46,475 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar
+2019-11-28 11:19:56,730 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android-sources.jar
+2019-11-28 11:20:07,029 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/hawtjni/hawtjni-runtime/1.16/hawtjni-runtime-1.16-sources.jar
+2019-11-28 11:20:17,269 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-freebsd32/1.8/jansi-freebsd32-1.8-sources.jar
+2019-11-28 11:20:27,562 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-freebsd64/1.8/jansi-freebsd64-1.8-sources.jar
+2019-11-28 11:20:37,814 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-linux32/1.8/jansi-linux32-1.8-sources.jar
+2019-11-28 11:20:48,053 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-linux64/1.8/jansi-linux64-1.8-sources.jar
